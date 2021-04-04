@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Galdeano&display=swap');
+
+body{
+    font-family: 'Galdeano';
+}
+footer{
+    color: white; 
+    font-size: large;
+    font-family: 'Galdeano';
+}
+footer a{
+    color: wheat;
+}
